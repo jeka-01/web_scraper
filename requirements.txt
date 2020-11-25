@@ -1,0 +1,12 @@
+cffi==1.14.0
+chardet==3.0.4
+console-log==0.2.10
+freeze==3.0
+pyaes==1.6.1
+pycparser==2.20
+pycryptodome==3.9.7
+PyInstaller==3.6
+pynput==1.6.8
+pypiwin32==223
+zope.event==4.4
+zope.interface==5.1.0
