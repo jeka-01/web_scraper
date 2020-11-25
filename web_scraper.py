@@ -34,7 +34,7 @@ class Server:
         self.host = host
         self.port = port
 
-def receive(self):
+    def receive(self):
     	data = ""
     	while True:
     		try:
